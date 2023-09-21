@@ -1,0 +1,15 @@
+.parent{
+    width: 500px;
+    background-color: purple;
+    padding: 1rem;
+}
+.parent h1{
+    padding: 1rem;
+}
+
+.Child{
+    width: 450px;
+    background-color: rgb(167, 28, 28);
+    margin: 1rem;
+    
+}
